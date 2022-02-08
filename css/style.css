@@ -50,10 +50,11 @@ h2{
 
 @media (max-width:400px) {
     section{
-          margin: 0 0 10 0;  
-          width: 100%;
-          box-sizing: content-box;
-          height: auto;;
+        margin: auto;
+        margin-bottom: 5px; 
+        width: 100%;
+        box-sizing: content-box;
+        height: auto;;
     }
     
 }
